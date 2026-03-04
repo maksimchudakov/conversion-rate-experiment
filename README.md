@@ -9,4 +9,4 @@ It includes:
 - Experiment simulation  
 - Visualization and statistical interpretation  
 
-The goal is to measure whether a new design/version of a website leads to an improvement in conversion rate.
+The goal is to measure whether a new design/version of a website leads to an improvement in conversion rate
